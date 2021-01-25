@@ -1,7 +1,7 @@
 /*
     pay.cpp
 
-    Implement pay example demonstration
+    Implement pay functions
 */
 
 #include "pay.hpp"

@@ -7,6 +7,4 @@
 #ifndef INCLUDE_PAY_HPP
 #define INCLUDE_PAY_HPP
 
-#include <vector>
-
 #endif

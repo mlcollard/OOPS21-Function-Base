@@ -7,6 +7,4 @@
 #ifndef INCLUDE_ORDER_HPP
 #define INCLUDE_ORDER_HPP
 
-#include <vector>
-
 #endif
